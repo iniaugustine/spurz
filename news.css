@@ -2,10 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: "Segoe UI Symbol";
-    background-image: -webkit-radial-gradient(white 40%, aquamarine);
-    background-image: -moz-radial-gradient(white, aquamarine);
-    background-image: -ms-radial-gradient(white, aquamarine);
-    background-repeat: no-repeat;
+    background-color: beige;
 }
 
 .na:hover {
